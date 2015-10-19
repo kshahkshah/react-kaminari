@@ -1,0 +1,29 @@
+{
+  "name": "react-kaminari",
+  "version": "0.1.0",
+  "description": "React Component which provides pagination helpers for Kaminari (Rails)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whistlerbrk/react-kaminari.git"
+  },
+  "keywords": [
+    "react-component",
+    "react",
+    "rails",
+    "kaminari"
+  ],
+  "author": "Kunal Shah",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=0.14.0",
+    "react-dom": ">=0.14.0"
+  },
+  "bugs": {
+    "url": "https://github.com/whistlerbrk/react-kaminari/issues"
+  },
+  "homepage": "https://github.com/whistlerbrk/react-kaminari#readme"
+}
