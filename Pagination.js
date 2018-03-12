@@ -1,4 +1,5 @@
-import React, { findDOMNode, Component, PropTypes } from 'react';
+import React, { findDOMNode, Component } from 'react';
+import PropTypes from "prop-types";
 
 export default class Pagination extends Component {
   render() {
